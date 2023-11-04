@@ -20,4 +20,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ArcadaParque.unity
     guid: ab9e53ddac142494498907d4affc0216
+  - enabled: 1
+    path: Assets/Scenes/Hotel.unity
+    guid: 2367bc73bac910b48ac6311613855b0d
+  - enabled: 1
+    path: Assets/Scenes/Ayuda.unity
+    guid: 5b6187d8fc72c8c4b9244747c3721f67
   m_configObjects: {}
