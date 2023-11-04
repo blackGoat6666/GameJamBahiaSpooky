@@ -11,4 +11,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Mapa.unity
     guid: 5c9a3504f4a0a0344a685b14e6cfb1f5
+  - enabled: 1
+    path: Assets/Scenes/Teatro.unity
+    guid: 2e0fa902620416443bb6eed731395904
+  - enabled: 1
+    path: Assets/Scenes/Puente.unity
+    guid: 5892a8959ddd80a4e91ec87ebaf96056
+  - enabled: 1
+    path: Assets/Scenes/ArcadaParque.unity
+    guid: ab9e53ddac142494498907d4affc0216
   m_configObjects: {}
